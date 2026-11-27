@@ -4,6 +4,14 @@ A real-world customer feedback management system developed for Bank Albilad to c
 
 The system consists of two integrated applications: a Flutter-based customer application and a Flutter Web admin dashboard.
 
+
+<p align="center">
+  <img src="screenshots/bank-albilad-system.png"
+       alt="Bank Albilad Customer Feedback System - Customer App on Tablet and Admin Dashboard on Laptop"
+       width="100%">
+</p>
+
+
 ## Project Overview
 
 The system provides a streamlined way for customers to share their experience while giving administrators centralized tools to monitor feedback, analyze satisfaction levels, and manage branch operations.
